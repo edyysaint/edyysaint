@@ -1,4 +1,4 @@
-## Olá! Me chamo Edy Silva e sou um estudante da área de Programação Frontend!!
+## Olá, sou Edy Silva e sou estudante  da área de Frontend!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
